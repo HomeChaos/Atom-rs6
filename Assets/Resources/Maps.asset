@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af354867b8d49869d90c5988c4ce169, type: 3}
+  m_Name: Maps
+  m_EditorClassIdentifier: 
+  _maps:
+  - _name: "\u042F\u0445\u0442\u0430"
+    _layers:
+    - {fileID: 21300000, guid: 8e8f33441683e634c83f1e9cbebd2588, type: 3}
+    - {fileID: 21300000, guid: 5ad5ea53eeeb46743befa02bcff484d6, type: 3}
+    - {fileID: 21300000, guid: 01c7f67385dc4bb479798d0371c5aa7c, type: 3}
+    - {fileID: 21300000, guid: e7427089bb5208048b7f51a4c3da8c7c, type: 3}
+    - {fileID: 21300000, guid: 5639c2af0f74c9f41a146105662929db, type: 3}
+  - _name: "\u0412\u0438\u043B\u043B\u0430"
+    _layers:
+    - {fileID: 21300000, guid: a346a5803cf79ea48a3c2c9f5debea75, type: 3}
+    - {fileID: 21300000, guid: a10a0b0ba155a444c933c9b63d92c83a, type: 3}
+    - {fileID: 21300000, guid: daa62d088c8331b43b73f84f01635cb0, type: 3}
+    - {fileID: 21300000, guid: d3d90826ce121af40929323f4b1e1dbb, type: 3}
+  - _name: "\u0411\u0430\u0448\u043D\u044F"
+    _layers:
+    - {fileID: 21300000, guid: 76912f228adbe6343a2fb96b47b851e2, type: 3}
+    - {fileID: 21300000, guid: 9b6c16d370f8a61419b3f6c044006c3d, type: 3}
+    - {fileID: 21300000, guid: 198c6171cf33d2d4f902dd65760ed96b, type: 3}
+  - _name: "\u041B\u0443\u043D\u0430-\u043F\u0430\u0440\u043A"
+    _layers:
+    - {fileID: 21300000, guid: ddc82efa72d3a0a4e985f9c74f564a9a, type: 3}
+    - {fileID: 21300000, guid: bea5dce7dc9661546b9ce5d3f09dc6ba, type: 3}
+    - {fileID: 21300000, guid: 334ed909309d18c469b4f48ca460346c, type: 3}
+  - _name: "\u041D\u0435\u0431\u043E\u0441\u043A\u0440\u0435\u0431"
+    _layers:
+    - {fileID: 21300000, guid: b0e1115d1d10e8d4db50bb43b24a8b6a, type: 3}
+    - {fileID: 21300000, guid: 657e6057a3faae94f93ea47f1071a8ed, type: 3}
+    - {fileID: 21300000, guid: 9b034ca3d56de054e81e78db852c078d, type: 3}
+  - _name: "\u0411\u043E\u0440\u0442 \u041D\u043E\u043C\u0435\u0440 \u041E\u0434\u0438\u043D"
+    _layers:
+    - {fileID: 21300000, guid: c5f415b1279664e4c840be9ead851b75, type: 3}
+    - {fileID: 21300000, guid: 7433468ce4a3bd24599d5b8871cc8023, type: 3}
+    - {fileID: 21300000, guid: e05e4fcdbe55c2741816d7405f6cb1e8, type: 3}
+    - {fileID: 21300000, guid: e5ef0020a99394c4d815fbee39190c36, type: 3}
+  - _name: "\u0410\u0443\u0442\u0431\u044D\u043A"
+    _layers:
+    - {fileID: 21300000, guid: 9d43e4e3373bd3444aabaa4bc87938b2, type: 3}
+    - {fileID: 21300000, guid: b814f103d3f3d6b44afd8c79538c561d, type: 3}
+    - {fileID: 21300000, guid: 752b82abb7082f84dbff14043bb9824c, type: 3}
+  - _name: "\u041E\u0440\u0435\u0433\u043E\u043D"
+    _layers:
+    - {fileID: 21300000, guid: cbb80fc282e31a7408ef80cec48aa437, type: 3}
+    - {fileID: 21300000, guid: 2f9cdd0275e9126449dc4fc58169b9d7, type: 3}
+    - {fileID: 21300000, guid: ffc5e930c2afd9b479a29f8ae78b2e0a, type: 3}
+    - {fileID: 21300000, guid: 9b722b74888234b45884f8b33eec132e, type: 3}
+  - _name: "\u041A\u0430\u043D\u0430\u043B"
+    _layers:
+    - {fileID: 21300000, guid: dceb401fddc27c2409fa42a1ba40deec, type: 3}
+    - {fileID: 21300000, guid: 95067a3082244a147985b92ecc2259a1, type: 3}
+    - {fileID: 21300000, guid: 4bbb3ca3c08924e4c9e6b80b742ea8e9, type: 3}
+    - {fileID: 21300000, guid: b2e436eb6fc6db04799c2911bf6d5bdf, type: 3}
+  - _name: "\u041A\u0430\u0444\u0435 \u0414\u043E\u0441\u0442\u043E\u0435\u0432\u0441\u043A\u0438\u0439"
+    _layers:
+    - {fileID: 21300000, guid: be139bb63e18fb141a479fb8590f2bd5, type: 3}
+    - {fileID: 21300000, guid: e077433395d477442ae85b82028d9d2e, type: 3}
+    - {fileID: 21300000, guid: f02d117602d050846b367cdbf2dad91a, type: 3}
+    - {fileID: 21300000, guid: 4274f88a38373a7418bca9be42e2dc04, type: 3}
+  - _name: "\u0414\u043E\u043C"
+    _layers:
+    - {fileID: 21300000, guid: e3a13ce3232ceb549bf8f66147783333, type: 3}
+    - {fileID: 21300000, guid: 8ba19f46a0c59fa4385601152f918390, type: 3}
+    - {fileID: 21300000, guid: c5b12b2ee41bf1c4aa279f3ca3409c78, type: 3}
+    - {fileID: 21300000, guid: c80d91561256c104c80f5dc6da8a4b07, type: 3}
+  - _name: "\u0411\u0430\u0437\u0430 \u0425\u0435\u0440\u0435\u0444\u043E\u0440\u0434"
+    _layers:
+    - {fileID: 21300000, guid: 70bc23b03fd3c8f4b8fb4092fabb175b, type: 3}
+    - {fileID: 21300000, guid: 8b39b065cb402c547ab1e5717e73fd9a, type: 3}
+    - {fileID: 21300000, guid: de5349c412209eb4096afeb4e7dba757, type: 3}
+    - {fileID: 21300000, guid: c5d2a4e56115bea4da0d6bcb74c4e320, type: 3}
+    - {fileID: 21300000, guid: dcf5ce138fd665341b0b8f24ca6adfb3, type: 3}
+  - _name: "\u041A\u0440\u0435\u043F\u043E\u0441\u0442\u044C"
+    _layers:
+    - {fileID: 21300000, guid: 50b2266fd0c88b5408af57a6231c2360, type: 3}
+    - {fileID: 21300000, guid: 365937344219da04fb11f0797e7586e6, type: 3}
+    - {fileID: 21300000, guid: fe588f064f574214e9e05471679e2e04, type: 3}
+  - _name: "\u0424\u0430\u0432\u0435\u043B\u0430"
+    _layers:
+    - {fileID: 21300000, guid: 3d58115bca9e7f043852f12f68616119, type: 3}
+    - {fileID: 21300000, guid: 2285710a4894e4743bc7546141af6023, type: 3}
+    - {fileID: 21300000, guid: 032150ccb78f4ee4e9bc91c958001b91, type: 3}
+    - {fileID: 21300000, guid: e528adc3f0f642e47beb8a69bfc480f0, type: 3}
+    - {fileID: 21300000, guid: 90895c7c8c4841d41b103a49045211b0, type: 3}
+  - _name: "\u041A\u043E\u043D\u0441\u0443\u043B\u044C\u0441\u0442\u0432\u043E"
+    _layers:
+    - {fileID: 21300000, guid: da315f83d68808546a3a5af81dc37509, type: 3}
+    - {fileID: 21300000, guid: e1f0e7362167eb844b7388d99df205fd, type: 3}
+    - {fileID: 21300000, guid: a4abcf7585d1474449d9367927dec24a, type: 3}
+    - {fileID: 21300000, guid: 3ce6e06ce6822d84ebfb7245e2332cd2, type: 3}
+  - _name: "\u041F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435"
+    _layers:
+    - {fileID: 21300000, guid: b6c75c4fb3acd8e42b06d7f761352649, type: 3}
+    - {fileID: 21300000, guid: 88db9a1cd318bfb43b945297969248c4, type: 3}
+    - {fileID: 21300000, guid: 75d17f55a35842a4e8e057f0f02f0465, type: 3}
+  - _name: "\u041A\u043B\u0443\u0431"
+    _layers:
+    - {fileID: 21300000, guid: a31c723379d5954438da6c5c93e074eb, type: 3}
+    - {fileID: 21300000, guid: 2ae3fc1586ce12b4480e9c7cb402ad11, type: 3}
+    - {fileID: 21300000, guid: 44d32426c4490d94b9b435ce209d2e60, type: 3}
+    - {fileID: 21300000, guid: 66ad8821e9a9ffe42b788031ab663bd4, type: 3}
+  - _name: "\u0413\u0440\u0430\u043D\u0438\u0446\u0430"
+    _layers:
+    - {fileID: 21300000, guid: 0b8cdda0689d16b439f0c1f38772bb62, type: 3}
+    - {fileID: 21300000, guid: b1d2750d67c43a84384d3167786c6c01, type: 3}
+    - {fileID: 21300000, guid: 09f0ac048f9ec0d41918f94345ffdf48, type: 3}
+  - _name: "\u0411\u0430\u043D\u043A"
+    _layers:
+    - {fileID: 21300000, guid: f8eb7cc5db6bcbc47ad3334646c964c1, type: 3}
+    - {fileID: 21300000, guid: 48be2c46dc2429c4dbe70a55a18ce0ea, type: 3}
+    - {fileID: 21300000, guid: 0144a419f4fcc304bbe38aab4b0688df, type: 3}
+    - {fileID: 21300000, guid: 2c2c7167ec32dad4facd0d18df07f1b6, type: 3}
+  - _name: "\u0428\u0430\u043B\u0435"
+    _layers:
+    - {fileID: 21300000, guid: 443d3d50978a9714aa7386efa03b2c2c, type: 3}
+    - {fileID: 21300000, guid: 4d0ad100438a4764ca268598129a1482, type: 3}
+    - {fileID: 21300000, guid: d0ebda336878d10409f331e7257c0bc9, type: 3}
+    - {fileID: 21300000, guid: 76190ec01c26f7548a4835189d7fb962, type: 3}
+  - _name: "\u0418\u0437\u0443\u043C\u0440\u0443\u0434\u043D\u044B\u0435 \u0440\u0430\u0432\u043D\u0438\u043D\u044B"
+    _layers:
+    - {fileID: 21300000, guid: c479c98807a5b1a4e92b9a3b0c7d6609, type: 3}
+    - {fileID: 21300000, guid: 02b0251eb2f1cca40ba49c5b2fe34511, type: 3}
+    - {fileID: 21300000, guid: b432529201621ac4b84d44e8879ff8b9, type: 3}
+  - _name: "\u041F\u043E\u043B\u0438\u0433\u043E\u043D"
+    _layers:
+    - {fileID: 21300000, guid: d572ad12f544f984a9ee8735546f8e7c, type: 3}
+    - {fileID: 21300000, guid: ea058cfcdaeb89345a7ba2f703ad980e, type: 3}
+  - _name: "\u0421\u0442\u0430\u0434\u0438\u043E\u043D"
+    _layers:
+    - {fileID: 21300000, guid: 4a8830b73f90cff449a5cdd5196e1169, type: 3}
+    - {fileID: 21300000, guid: ed628f371ce9bc74db7fffd827e36786, type: 3}
+    - {fileID: 21300000, guid: 5017a2b8ea7a8c14b9d8d3dcd1263eae, type: 3}
+    - {fileID: 21300000, guid: 12e51a7b56b90c1478f5549a4b5664db, type: 3}
+  - _name: "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u044F"
+    _layers:
+    - {fileID: 21300000, guid: f719c3310ecac4c4f842821de132db02, type: 3}
+    - {fileID: 21300000, guid: 2730a7afd0c043b4ebc646f23b7bf0c3, type: 3}
+    - {fileID: 21300000, guid: 7b325e16c32e4f14f9d865824bcb335f, type: 3}
+    - {fileID: 21300000, guid: 6f6013b076f63a748aaa3f4c69c80f5b, type: 3}
