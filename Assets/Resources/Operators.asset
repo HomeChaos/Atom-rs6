@@ -124,6 +124,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 348a74ee8b543e84fb5d591b3cc65cee, type: 3}
   - {fileID: 21300000, guid: 74548a2045fc4014794e2560b52f430c, type: 3}
   - {fileID: 21300000, guid: f09a42dc241c5524b8cd822326d862dd, type: 3}
+  - {fileID: 21300000, guid: 3519a000fdbf56545b149343b8af3c81, type: 3}
   _gadgets:
   - {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
   - {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
@@ -137,6 +138,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
   - {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
   - {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+  - {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa, type: 3}
+  - {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020, type: 3}
   _defaultIcon: {fileID: 21300000, guid: f7b63b56997775947a0babef15d8b9b0, type: 3}
   _defaultDevices: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
   _operatorsD:
@@ -151,11 +154,11 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: 9f09be3c11c09184eaecece60b3cdd11, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f,
       type: 3}
   - _name: Bandit
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 1f2099fe99086504db1ed20ecd6b26fc, type: 3}
     _iconDevice: {fileID: 21300000, guid: d37ef42d23bacb34da9c6711c7ecb8b3, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
@@ -165,14 +168,14 @@ MonoBehaviour:
     _device: 5
     _icon: {fileID: 21300000, guid: 7f797a63aace37744a7fb4b3f49907d1, type: 3}
     _iconDevice: {fileID: 21300000, guid: adca0178aa855fe4281d98ab50427685, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8,
       type: 3}
   - _name: Rook
     _device: 0
     _icon: {fileID: 21300000, guid: 5fa9ee1b42b9b4d4283cfdb730cc29e4, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
       type: 3}
   - _name: Doc
@@ -186,39 +189,39 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: 534278225225b6d48bdec21ca4063a1d, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
       type: 3}
   - _name: Castle
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 7772a3a8d1dc07c44aa655eeac13bab0, type: 3}
     _iconDevice: {fileID: 21300000, guid: 5f2e9485f9bec604cb60e61c4bb96519, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
+    _iconGadgetSecond: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8,
       type: 3}
   - _name: Smoke
     _device: 0
     _icon: {fileID: 21300000, guid: 696974877e4d45444ad6892fe9366040, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0,
       type: 3}
   - _name: Mute
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: cf68062fa6d70234182aee5ade2c4878, type: 3}
     _iconDevice: {fileID: 21300000, guid: a36163752d0f9d34cad067dac1d20ba8, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
       type: 3}
   - _name: Frost
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: fa04613e9da9dbd47a28c463bfb1d41a, type: 3}
     _iconDevice: {fileID: 21300000, guid: 27519b7e175c7cc4b9ba4cdb066f7d4a, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526,
       type: 3}
   - _name: Valkyrie
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 938dafea8eeede14f823cc9b9de027f8, type: 3}
     _iconDevice: {fileID: 21300000, guid: 348a74ee8b543e84fb5d591b3cc65cee, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3, type: 3}
@@ -229,17 +232,17 @@ MonoBehaviour:
     _icon: {fileID: 21300000, guid: f7b63b56997775947a0babef15d8b9b0, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
+    _iconGadgetSecond: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa,
       type: 3}
   - _name: Echo
-    _device: 5
+    _device: 2
     _icon: {fileID: 21300000, guid: 4eaa611d5396f7b428976c90212e73fa, type: 3}
     _iconDevice: {fileID: 21300000, guid: 63b280a6e1a4a424b81c507a86313c71, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
+    _iconGadgetSecond: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526,
       type: 3}
   - _name: Mira
-    _device: 5
+    _device: 2
     _icon: {fileID: 21300000, guid: e6b722381ef79f94cb659eac9d35e6a1, type: 3}
     _iconDevice: {fileID: 21300000, guid: a92daeec38528ca4db093770826f18f8, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
@@ -253,10 +256,10 @@ MonoBehaviour:
     _iconGadgetSecond: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8,
       type: 3}
   - _name: Ela
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 7141babda244fa44e9711b982b6fb8f6, type: 3}
     _iconDevice: {fileID: 21300000, guid: aa92fad655b04654283608946b9c9bff, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526,
       type: 3}
   - _name: Vigil
@@ -267,35 +270,35 @@ MonoBehaviour:
     _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
       type: 3}
   - _name: Alibi
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 9cf12cda4de787042ba94bdb8ec24347, type: 3}
     _iconDevice: {fileID: 21300000, guid: b84ec1b4c7e1b394d8ff5034df89d1f6, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526,
+    _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
+    _iconGadgetSecond: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa,
       type: 3}
   - _name: Maestro
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: c103ee96cc258bc49ba9e7e96ccb6b53, type: 3}
     _iconDevice: {fileID: 21300000, guid: 0c81090158afd6f4da1c6d1e126c0ff1, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
       type: 3}
   - _name: Clash
     _device: 0
     _icon: {fileID: 21300000, guid: 8d22db5658de13249a4b9424db28f06e, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
       type: 3}
   - _name: Kaid
-    _device: 5
+    _device: 2
     _icon: {fileID: 21300000, guid: 5009fa4b00b9b9b42aa2781f6e354fbe, type: 3}
     _iconDevice: {fileID: 21300000, guid: a94fb3ed190ada54e83f62067d5baeac, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
       type: 3}
   - _name: Mozzie
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: a6825db4d73454b49b605d785bb9436d, type: 3}
     _iconDevice: {fileID: 21300000, guid: de08aef85d38fba49a60d386b334d496, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
@@ -306,14 +309,14 @@ MonoBehaviour:
     _icon: {fileID: 21300000, guid: ed4f4ef37c1972248a72be1f28d24611, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
+    _iconGadgetSecond: {fileID: 21300000, guid: 601f5d12197f2f344a5c4b6797acacfa,
       type: 3}
   - _name: Goyo
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 06b7d77889d0f064388fabd3a8a13d3d, type: 3}
     _iconDevice: {fileID: 21300000, guid: cbe85014713af874689f0f3a93d382dd, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3,
+    _iconGadgetSecond: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8,
       type: 3}
   - _name: Wamai
     _device: 5
@@ -330,35 +333,35 @@ MonoBehaviour:
     _iconGadgetSecond: {fileID: 21300000, guid: 73531a83f346ead4792e9785d8a5bb5f,
       type: 3}
   - _name: Melusi
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: aa06d18a712844f459c3daecefd5a669, type: 3}
     _iconDevice: {fileID: 21300000, guid: ce70aaf07951b5546b0f4a0585109667, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
+    _iconGadgetSecond: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8,
       type: 3}
   - _name: Aruni
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 2a6b6bbf6cddbcb4cb25f6a7f2692d28, type: 3}
     _iconDevice: {fileID: 21300000, guid: fd61594d049188545b7e0fcf162be16d, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0,
       type: 3}
   - _name: Thunderbird
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 5f6e49655eb4b2e498a615ee1277c264, type: 3}
     _iconDevice: {fileID: 21300000, guid: ab76be04874ed584d881acfa6098a4e8, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: 043d8e7742c17ff4ba9cf69915c07f71,
+    _iconGadgetFirst: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0, type: 3}
+    _iconGadgetSecond: {fileID: 21300000, guid: d8662a50543db10468b942e06c2297f8,
       type: 3}
   - _name: Thorn
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: ceb4c366f4712d045821056f3bd363de, type: 3}
     _iconDevice: {fileID: 21300000, guid: decc0d924ad622644be7fe462443bf66, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: f81f8983d7ba2a64fb880c9ad183b526, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 9e9bdd06da0f7f24a8133250bbc131a0,
       type: 3}
   - _name: Azami
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: a093e93b07d3039488153f7b3ea07353, type: 3}
     _iconDevice: {fileID: 21300000, guid: 2289908f9c297e741a7a1949dfb1e679, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: e244a46cfcb5206429a7b07a9e46f9b3, type: 3}
@@ -387,7 +390,7 @@ MonoBehaviour:
     _iconGadgetSecond: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b,
       type: 3}
   - _name: Fuze
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 3a846cb7fa24c5c43b4963c35836e73d, type: 3}
     _iconDevice: {fileID: 21300000, guid: a248ad8f37162904d9c573f940b4e5d4, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
@@ -397,7 +400,7 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: f7415abe43afaae49b33749f6dac7572, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Blitz
@@ -419,24 +422,24 @@ MonoBehaviour:
     _icon: {fileID: 21300000, guid: 493f258c1c8db3a439e51366025a3bb0, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: b61aa4899f95fd6418eda5982c9bf29e, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66,
+    _iconGadgetSecond: {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020,
       type: 3}
   - _name: Thermite
-    _device: 5
+    _device: 2
     _icon: {fileID: 21300000, guid: fe8e8ddf2dc52004da9291550ad564e5, type: 3}
     _iconDevice: {fileID: 21300000, guid: 1bdea9146aee80f4e819814b18cd7270, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
       type: 3}
   - _name: Ash
-    _device: 5
+    _device: 2
     _icon: {fileID: 21300000, guid: 06040ce85cf7ca04f88b60333d4694f7, type: 3}
     _iconDevice: {fileID: 21300000, guid: 8ac5e67d365e49547bc611cf1554cc20, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Thatcher
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 1195e3bdc2faeb54cb65f2fcfeca2b6a, type: 3}
     _iconDevice: {fileID: 21300000, guid: 9039861dc42b8ae46b93c2774d41b336, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
@@ -447,7 +450,7 @@ MonoBehaviour:
     _icon: {fileID: 21300000, guid: 5cf98c6b34463f54786be62195949223, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
+    _iconGadgetSecond: {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020,
       type: 3}
   - _name: Buck
     _device: 0
@@ -460,11 +463,11 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: 542d4d5861b92ad4e807956987a61b5a, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
       type: 3}
   - _name: Capitao
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 73075e3c076aeae4cb17e9bcf5e5aa81, type: 3}
     _iconDevice: {fileID: 21300000, guid: fdc95c6598e2a554c97b64a81f1021c0, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb, type: 3}
@@ -502,43 +505,43 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: f71d769879e5bed4385974bc35b6c987, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
       type: 3}
   - _name: Finka
     _device: 0
     _icon: {fileID: 21300000, guid: f36f50e82c0c9aa49ab0444c270f0113, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: b61aa4899f95fd6418eda5982c9bf29e, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
       type: 3}
   - _name: Lion
     _device: 0
     _icon: {fileID: 21300000, guid: 5b1b2e29c217d7d439c8bbd71acf544f, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Maverick
     _device: 0
     _icon: {fileID: 21300000, guid: 5fdb4185973800f40ad67437153dc951, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Nomad
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 5f74f25847773244ca50e14cb53be0e6, type: 3}
     _iconDevice: {fileID: 21300000, guid: cfe7d41a547e7724e96e50e9c04f6129, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
       type: 3}
   - _name: Gridlock
-    _device: 5
+    _device: 4
     _icon: {fileID: 21300000, guid: 8543d1b642089714cb91966f45f8c442, type: 3}
     _iconDevice: {fileID: 21300000, guid: 43d2afc1d97fc1f4ba83a6a0f01a9be5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0,
+    _iconGadgetFirst: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b, type: 3}
+    _iconGadgetSecond: {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020,
       type: 3}
   - _name: Nokk
     _device: 0
@@ -555,7 +558,7 @@ MonoBehaviour:
     _iconGadgetSecond: {fileID: 21300000, guid: b61aa4899f95fd6418eda5982c9bf29e,
       type: 3}
   - _name: Kali
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: 47f1f5fb8b2a2eb4981292335508f18b, type: 3}
     _iconDevice: {fileID: 21300000, guid: 7296b18c5f2c9eb43b14d419065af5db, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
@@ -565,18 +568,18 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: 5c4ff75e74f539a47a7012e026eef0ec, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: aed1e09ef5531f04bb123cb68db5226b, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66,
       type: 3}
   - _name: Ace
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: e458bed2d12a98f47a3740be2abf0172, type: 3}
     _iconDevice: {fileID: 21300000, guid: 413533666609f3244ae41730e488b8b9, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Zero
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: cbcbd4960bf9a1544a3e2ac4b9103d74, type: 3}
     _iconDevice: {fileID: 21300000, guid: f09a42dc241c5524b8cd822326d862dd, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: b61aa4899f95fd6418eda5982c9bf29e, type: 3}
@@ -590,14 +593,14 @@ MonoBehaviour:
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Osa
-    _device: 5
+    _device: 2
     _icon: {fileID: 21300000, guid: 613ea1c3f43c7bf4292ecd7112a66dc7, type: 3}
     _iconDevice: {fileID: 21300000, guid: 565e3c1469a673e4f98ce9e63c1236da, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: 7613f3eeca9d3bb419ab47f4d382f020, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Sens
-    _device: 5
+    _device: 3
     _icon: {fileID: 21300000, guid: d16fea35760bfba4e940db41807652ea, type: 3}
     _iconDevice: {fileID: 21300000, guid: 31b162bf41b7dd54ea3b95062fd1bd21, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
@@ -607,7 +610,7 @@ MonoBehaviour:
     _device: 0
     _icon: {fileID: 21300000, guid: a154e52d59b0156448ab74d1dc1e37cc, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
-    _iconGadgetFirst: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0, type: 3}
+    _iconGadgetFirst: {fileID: 21300000, guid: b61aa4899f95fd6418eda5982c9bf29e, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
       type: 3}
   - _name: Brava
@@ -615,12 +618,12 @@ MonoBehaviour:
     _icon: {fileID: 21300000, guid: 44c9650fd72fd9c4e8515a36271210a3, type: 3}
     _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
-    _iconGadgetSecond: {fileID: 21300000, guid: 8b91db75eacedbc448571976c567f8fb,
+    _iconGadgetSecond: {fileID: 21300000, guid: fdd4040539051f64dbba6c7f029e45b0,
       type: 3}
   - _name: Ram
-    _device: 0
+    _device: 3
     _icon: {fileID: 21300000, guid: 3b6e16c5ec23cb24bb91c4fbc0da3663, type: 3}
-    _iconDevice: {fileID: 21300000, guid: 169189bb410cbae46bc03e51a2c4cff5, type: 3}
+    _iconDevice: {fileID: 21300000, guid: 3519a000fdbf56545b149343b8af3c81, type: 3}
     _iconGadgetFirst: {fileID: 21300000, guid: ff8fc20103904074ab10f9a272394e66, type: 3}
     _iconGadgetSecond: {fileID: 21300000, guid: b3440265d4049bf4a86b05310c7f2f79,
       type: 3}

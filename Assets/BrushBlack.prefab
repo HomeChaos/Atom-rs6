@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6955009203861477993}
   - component: {fileID: 9069024207186783453}
-  - component: {fileID: -162464397800126707}
   m_Layer: 5
   m_Name: BrushBlack
   m_TagString: Line
@@ -134,15 +133,3 @@ LineRenderer:
     generateLightingData: 0
   m_UseWorldSpace: 1
   m_Loop: 0
---- !u!114 &-162464397800126707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4564954372481077696}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37ec433ab01d46e4b8088d7fc207c28c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6955009203861477993}
   - component: {fileID: 9069024207186783453}
-  - component: {fileID: -162464397800126707}
   m_Layer: 5
   m_Name: BrushYellow
   m_TagString: Line
@@ -99,8 +98,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 0.72182995, b: 0, a: 1}
-      key1: {r: 1, g: 0.72156864, b: 0, a: 1}
+      key0: {r: 1, g: 0.9561808, b: 0, a: 1}
+      key1: {r: 1, g: 0.95686275, b: 0, a: 1}
       key2: {r: 1, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -134,15 +133,3 @@ LineRenderer:
     generateLightingData: 0
   m_UseWorldSpace: 1
   m_Loop: 0
---- !u!114 &-162464397800126707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4564954372481077696}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37ec433ab01d46e4b8088d7fc207c28c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6955009203861477993}
   - component: {fileID: 9069024207186783453}
   m_Layer: 5
-  m_Name: BrushGreen
+  m_Name: BrushBlue1
   m_TagString: Line
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -98,8 +98,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0, g: 1, b: 0.043819427, a: 1}
-      key1: {r: 0, g: 1, b: 0.047058824, a: 1}
+      key0: {r: 0, g: 0.06818819, b: 1, a: 1}
+      key1: {r: 0, g: 0.07058824, b: 1, a: 1}
       key2: {r: 1, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}

@@ -554,19 +554,29 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
-    - m_Text: "\u041A\u0440\u0430\u0441\u043D\u044B\u0439"
+    - m_Text: "\u0427\u0435\u0440\u043D\u044B\u0439"
+      m_Image: {fileID: 0}
+    - m_Text: "\u0421\u0438\u043D\u0438\u0439 1"
+      m_Image: {fileID: 0}
+    - m_Text: "\u0421\u0438\u043D\u0438\u0439 2"
+      m_Image: {fileID: 0}
+    - m_Text: "\u0421\u0438\u043D\u0438\u0439 3"
+      m_Image: {fileID: 0}
+    - m_Text: "\u0421\u0438\u043D\u0438\u0439 4"
+      m_Image: {fileID: 0}
+    - m_Text: "\u0421\u0438\u043D\u0438\u0439 5"
       m_Image: {fileID: 0}
     - m_Text: "\u0417\u0435\u043B\u0435\u043D\u044B\u0439"
       m_Image: {fileID: 0}
-    - m_Text: "\u0421\u0438\u043D\u0438\u0439"
-      m_Image: {fileID: 0}
-    - m_Text: "\u0416\u0435\u043B\u0442\u044B\u0439"
+    - m_Text: "\u041E\u0440\u0430\u043D\u0436\u0435\u0432\u044B\u0439"
       m_Image: {fileID: 0}
     - m_Text: "\u0420\u043E\u0437\u043E\u0432\u044B\u0439"
       m_Image: {fileID: 0}
+    - m_Text: "\u041A\u0440\u0430\u0441\u043D\u044B\u0439"
+      m_Image: {fileID: 0}
     - m_Text: "\u0411\u0435\u043B\u044B\u0439"
       m_Image: {fileID: 0}
-    - m_Text: "\u0427\u0435\u0440\u043D\u044B\u0439"
+    - m_Text: "\u0416\u0435\u043B\u0442\u044B\u0439"
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
@@ -27787,7 +27797,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u041A\u0440\u0430\u0441\u043D\u044B\u0439"
+  m_Text: "\u0427\u0435\u0440\u043D\u044B\u0439"
 --- !u!222 &1174477478
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28667,13 +28677,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _mainCamera: {fileID: 519420031}
   _brushColor:
+  - {fileID: 4564954372481077696, guid: d1bf4dd4939acb343a06695fbdf074e6, type: 3}
+  - {fileID: 4564954372481077696, guid: d6571a2f4d6a0c644a5ce7b5906703fa, type: 3}
+  - {fileID: 4564954372481077696, guid: 2df711460474a924495c22c3aa3f755f, type: 3}
+  - {fileID: 4564954372481077696, guid: d8e3abe13ba816142afba338d6a39510, type: 3}
+  - {fileID: 4564954372481077696, guid: 731d9963e41a65142a40905b0f88d9d8, type: 3}
+  - {fileID: 4564954372481077696, guid: fe3b9e10ce43b3d43be90bca68ca6e6a, type: 3}
+  - {fileID: 4564954372481077696, guid: b744e28dc80793a4892f9d532cc27df6, type: 3}
+  - {fileID: 4564954372481077696, guid: 7f084748f5d368c4ab6609e121f5f1d4, type: 3}
+  - {fileID: 4564954372481077696, guid: 542f95e9e87b89e49bd5e793dd00bd3f, type: 3}
   - {fileID: 4564954372481077696, guid: d3f09022a5397d444a4cb2f32aa64701, type: 3}
-  - {fileID: 4564954372481077696, guid: 517b73c6231233043a2e0b7debe38916, type: 3}
-  - {fileID: 4564954372481077696, guid: b08e5705aaa27d24e8005968d04a4218, type: 3}
-  - {fileID: 4564954372481077696, guid: fca80db9acdaf934598ffa4583505461, type: 3}
-  - {fileID: 4564954372481077696, guid: 21602f4f614c37448a5b606a13659561, type: 3}
-  - {fileID: 4564954372481077696, guid: 510782eb5f7241e41abf8468daffa75b, type: 3}
-  - {fileID: 4564954372481077696, guid: 9abe8cf577402d14fbf76b1804532b0d, type: 3}
+  - {fileID: 4564954372481077696, guid: 4ca667ed156ffc94486da6c4da90e93d, type: 3}
+  - {fileID: 4564954372481077696, guid: b9359b3acf19ac14b995f9ea86c251c5, type: 3}
   _onDrawing: 0
   _onFocus: 0
 --- !u!4 &1192633134
